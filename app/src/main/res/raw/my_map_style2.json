@@ -1,0 +1,50 @@
+[
+  {
+    "featureType": "landscape.man_made",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "saturation": -45
+      },
+      {
+        "lightness": 15
+      },
+      {
+        "weight": 1.5
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.natural",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#a5b189"
+      },
+      {
+        "saturation": -70
+      },
+      {
+        "lightness": 55
+      },
+      {
+        "visibility": "simplified"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "saturation": -5
+      },
+      {
+        "lightness": 20
+      },
+      {
+        "visibility": "simplified"
+      }
+    ]
+  }
+]
